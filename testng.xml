@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="pkg.Screenshot"/>
+      <class name="pkg.Linkcount2"/>
+      <class name="testNGpackage.Hover"/>
+      <class name="testNGpackage.DragDrop"/>
+      <class name="testNGpackage.DataDriventest"/>
+      <class name="testNGpackage.TestGrouping"/>
+      <class name="pkg.Rediff"/>
+      <class name="pkg.Amazon"/>
+      <class name="pkg.Junitscript"/>
+      <class name="testNGpackage.CopyPaste"/>
+      <class name="pkg.AmazonXpath"/>
+      <class name="pkg.Facebook2"/>
+      <class name="testNGpackage.LoginValidation"/>
+      <class name="testNGpackage.TestigDemo"/>
+      <class name="pkg.Dropdown"/>
+      <class name="pkg.Facebook"/>
+      <class name="pkg.Linkcount"/>
+      <class name="testNGpackage.Demosite"/>
+      <class name="pkg.AlertCode"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
